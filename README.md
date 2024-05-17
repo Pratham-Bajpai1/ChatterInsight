@@ -1,4 +1,4 @@
-# 💬 WhatsApp Chat Analyzer 📈
+# 💬 WhatsApp Chat Analyzer Tool 📈
 
 ![Screenshot 2024-05-17 150006](https://github.com/Pratham-Bajpai1/ChatterInsight/assets/124435912/53be0770-1801-4485-bb2d-ad854ef034b9)
 
